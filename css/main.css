@@ -7,6 +7,10 @@
       font-style: normal;
   }
   
+  .contain-text{
+    margin-top: 15px;
+  }
+
   .carousel-fade .carousel-inner .item {
       opacity: 0;
       -webkit-transition-property: opacity;
